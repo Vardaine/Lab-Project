@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1672510782 source:e:\code\lab project\lab project\main.c
+	<stdio.h>
+	"Header/Splash Screen.h"
+	"Header/login.h"
+	"Header/menu.h"
+
+1672478074 e:\code\lab project\lab project\splash screen.h
+	<stdio.h>
+	<dos.h>
+
+1672516384 e:\code\lab project\lab project\header\splash screen.h
+	<stdio.h>
+	<dos.h>
+
+1672511309 e:\code\lab project\lab project\header\login.h
+	<stdio.h>
+	<string.h>
+
+1672515037 e:\code\lab project\lab project\header\menu.h
+	<stdio.h>
+
+1672564784 source:c:\lab project 1964042\lab project\lab project\main.c
+	<stdio.h>
+	"Header/Splash Screen.h"
+	"Header/login.h"
+	"Header/menu.h"
+
+1672570386 c:\lab project 1964042\lab project\lab project\header\splash screen.h
+	<stdio.h>
+	<dos.h>
+
+1672565310 c:\lab project 1964042\lab project\lab project\header\login.h
+	<stdio.h>
+	<string.h>
+
+1672569038 c:\lab project 1964042\lab project\lab project\header\menu.h
+	<stdio.h>
+

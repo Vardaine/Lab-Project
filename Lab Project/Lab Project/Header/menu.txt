@@ -1,0 +1,16 @@
+Sakib 
+25000
+Day
+25
+Sadman
+30000
+Night
+26
+Mahin
+45000
+Day
+30
+Kashfi
+35000
+Night
+28
